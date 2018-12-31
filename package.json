@@ -33,9 +33,9 @@
   },
   "license": "Apache-2.0",
   "peerDependencies": {
-    "bootstrap-daterangepicker": "*",
     "jquery": "*",
     "moment": "*",
+    "daterangepicker": "*",
     "prop-types": "*",
     "react": "*"
   },
